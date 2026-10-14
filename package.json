@@ -46,6 +46,6 @@
   },
   "overrides": {
     "vite": "^6.4.3",
-    "shell-quote": "^1.10.0"
+    "shell-quote": "^1.12.0"
   }
 }
